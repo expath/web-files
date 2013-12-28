@@ -4,11 +4,11 @@
    <area dir="pkg">
       <name>Packaging System</name>
       <component>
-         <name>Repository management, with installer</name>
+         <name>Repository manager, with installer</name>
          <file href="expath-repo-installer-0.11.0.jar" version="0.11.0"/>
       </component>
       <component>
-         <name>Repository management</name>
+         <name>Repository manager</name>
          <file href="expath-repo-0.11.0.zip" version="0.11.0"/>
       </component>
       <component>

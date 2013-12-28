@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<area>
+<area dir="http-client">
    <name>HTTP Client</name>
    <component>
       <name>HTTP Client for Saxon</name>

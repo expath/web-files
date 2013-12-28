@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<area>
+<area dir="pkg">
    <name>Packaging System</name>
    <component>
-      <name>Repository management, with installer</name>
+      <name>Repository manager, with installer</name>
       <file href="expath-repo-installer-0.11.0.jar" version="0.11.0"/>
       <file href="expath-repo-installer-0.10.0.jar" version="0.10.0"/>
    </component>
    <component>
-      <name>Repository management</name>
+      <name>Repository manager</name>
       <file href="expath-repo-0.11.0.zip" version="0.11.0"/>
       <file href="expath-repo-0.10.0.zip" version="0.10.0"/>
       <file href="expath-repo-0.9.0.zip" version="0.9.0"/>
