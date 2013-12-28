@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project id="expath-http-client">
+   <home>https://code.google.com/p/expath-http-client/</home>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-saxon-0.10.0.zip">
+      <filename>expath-http-client-saxon-0.10.0.zip</filename>
+      <checksum type="sha1">a147d0b252462d527ec5c59ffb182d0f939d0c43</checksum>
+      <description>HTTP Client implementation for Saxon</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 10, 2012</released-on>
+      <uploaded-on>Feb 10, 2012</uploaded-on>
+      <downloads>109</downloads>
+      <size>971 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-java-0.3.0.zip">
+      <filename>expath-http-client-java-0.3.0.zip</filename>
+      <checksum type="sha1">96c13b2e23d717f0bfc413bed3f6d433691b8e16</checksum>
+      <description>HTTP Client implementation for Java</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 10, 2012</released-on>
+      <uploaded-on>Feb 10, 2012</uploaded-on>
+      <downloads>45</downloads>
+      <size>1002 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-java-0.2.0.zip">
+      <filename>expath-http-client-java-0.2.0.zip</filename>
+      <checksum type="sha1">bb00500dde3068c1483c28ebf8f52dba04f7cffa</checksum>
+      <description>HTTP Client implementation for Java</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 24, 2011</released-on>
+      <uploaded-on>Aug 24, 2011</uploaded-on>
+      <downloads>25</downloads>
+      <size>1001 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-saxon-0.9.0.zip">
+      <filename>expath-http-client-saxon-0.9.0.zip</filename>
+      <checksum type="sha1">893227b9692472399846573600f8e9ce35798214</checksum>
+      <description>HTTP Client implementation for Saxon</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 24, 2011</released-on>
+      <uploaded-on>Aug 24, 2011</uploaded-on>
+      <downloads>36</downloads>
+      <size>970 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-saxon-0.8.0.zip">
+      <filename>expath-http-client-saxon-0.8.0.zip</filename>
+      <checksum type="sha1">7a6b49e234554d65138bea298481c6f3f1bfa1a7</checksum>
+      <description>HTTP Client implementation for Saxon</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>May 30, 2011</released-on>
+      <uploaded-on>May 30, 2011</uploaded-on>
+      <downloads>26</downloads>
+      <size>970 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-java-0.1.0.zip">
+      <filename>expath-http-client-java-0.1.0.zip</filename>
+      <checksum type="sha1">5358d1fd24221cdcff5d0be8cee0902ef968eaf2</checksum>
+      <description>HTTP Client implementation for Java</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>May 30, 2011</released-on>
+      <uploaded-on>May 30, 2011</uploaded-on>
+      <downloads>27</downloads>
+      <size>1001 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-saxon-0.7.0.zip">
+      <filename>expath-http-client-saxon-0.7.0.zip</filename>
+      <checksum type="sha1">4a6a5540f1c8440c8492eb5ac991fbe1f7b87db0</checksum>
+      <description>HTTP Client implementation for Saxon</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Mar 10, 2011</released-on>
+      <uploaded-on>Mar 10, 2011</uploaded-on>
+      <downloads>36</downloads>
+      <size>1.1 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-saxon-0.6.0.zip">
+      <filename>expath-http-client-saxon-0.6.0.zip</filename>
+      <checksum type="sha1">44cd2cf8fd78143aa6706c7e688338005897acfa</checksum>
+      <description>HTTP Client implementation for Saxon</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Mar 10, 2011</released-on>
+      <uploaded-on>Mar 10, 2011</uploaded-on>
+      <downloads>6</downloads>
+      <size>1.1 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-http-client.googlecode.com/files/expath-http-client-saxon-0.5.zip">
+      <filename>expath-http-client-saxon-0.5.zip</filename>
+      <checksum type="sha1">e8aa78fb5ec1a7cfcde5c4912862af5e8964dda3</checksum>
+      <description>HTTP Client implementation for Saxon</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>May 6, 2010</released-on>
+      <uploaded-on>67</uploaded-on>
+      <downloads>Type-Package</downloads>
+      <size>1.1 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-http-client/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+</project>

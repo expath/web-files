@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<area>
+   <name>HTTP Client</name>
+   <component>
+      <name>HTTP Client for Saxon</name>
+      <file href="expath-http-client-saxon-0.10.0.zip" version="0.10.0"/>
+      <file href="expath-http-client-saxon-0.9.0.zip" version="0.9.0"/>
+      <file href="expath-http-client-saxon-0.8.0.zip" version="0.8.0"/>
+      <file href="expath-http-client-saxon-0.7.0.zip" version="0.7.0"/>
+      <file href="expath-http-client-saxon-0.6.0.zip" version="0.6.0"/>
+      <file href="expath-http-client-saxon-0.5.zip" version="0.5"/>
+   </component>
+   <component>
+      <name>HTTP Client generic for Java</name>
+      <file href="expath-http-client-java-0.3.0.zip" version="0.3.0"/>
+      <file href="expath-http-client-java-0.2.0.zip" version="0.2.0"/>
+      <file href="expath-http-client-java-0.1.0.zip" version="0.1.0"/>
+   </component>
+</area>
