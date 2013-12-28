@@ -24,6 +24,17 @@
          <file href="expath-ml-console-0.2.0.zip" version="0.2.0"/>
       </component>
    </area>
+   <area dir="servlex">
+      <name>Servlex</name>
+      <component>
+         <name>Servlex, with installer</name>
+         <file href="servlex-installer-0.8.0.jar" version="0.8.0"/>
+      </component>
+      <component>
+         <name>Servlex, only the WAR file</name>
+         <file href="servlex-0.8.0.zip" version="0.8.0"/>
+      </component>
+   </area>
    <area dir="http-client">
       <name>HTTP Client</name>
       <component>

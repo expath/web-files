@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project id="servlex">
+   <home>https://code.google.com/p/servlex/</home>
+   <file href="https://servlex.googlecode.com/files/servlex-0.8.0-installer.jar">
+      <filename>servlex-0.8.0-installer.jar</filename>
+      <checksum type="sha1">6f85dafe691830ca2b2968920db93e69591af20e</checksum>
+      <description>Servlex version 0.8.0, with installer</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Apr 08, 2013</released-on>
+      <uploaded-on>Apr 8, 2013</uploaded-on>
+      <downloads>24</downloads>
+      <size>6.2 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Installer">
+         <name>Type-Installer</name>
+         <desc>Download and run to install application</desc>
+         <category>
+            <name>Type</name>
+            <value>Installer</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.8.0.zip">
+      <filename>servlex-0.8.0.zip</filename>
+      <checksum type="sha1">ca6a0a4cd2804cca3485aea6e04719e61467890c</checksum>
+      <description>Servlex version 0.8.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Apr 08, 2013</released-on>
+      <uploaded-on>Apr 8, 2013</uploaded-on>
+      <downloads>12</downloads>
+      <size>5.5 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.7.0-intaller.jar">
+      <filename>servlex-0.7.0-intaller.jar</filename>
+      <checksum type="sha1">1a76002d1074e1f82e7dc8af2d879d40a2fdde00</checksum>
+      <description>Servlex version 0.7.0, with installer</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 07, 2013</released-on>
+      <uploaded-on>Feb 7, 2013</uploaded-on>
+      <downloads>17</downloads>
+      <size>6.0 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Installer">
+         <name>Type-Installer</name>
+         <desc>Download and run to install application</desc>
+         <category>
+            <name>Type</name>
+            <value>Installer</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.7.0.zip">
+      <filename>servlex-0.7.0.zip</filename>
+      <checksum type="sha1">e131cb28aaae476e0d03a5cb5e482aba3bc27875</checksum>
+      <description>Servlex version 0.7.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 07, 2013</released-on>
+      <uploaded-on>Feb 7, 2013</uploaded-on>
+      <downloads>7</downloads>
+      <size>5.0 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.6.0.zip">
+      <filename>servlex-0.6.0.zip</filename>
+      <checksum type="sha1">82d5878d19adefe9cfebd47032756de49726be18</checksum>
+      <description>Servlex version 0.6.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 29, 2011</released-on>
+      <uploaded-on>Aug 29, 2011</uploaded-on>
+      <downloads>51</downloads>
+      <size>4.4 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.5.0.zip">
+      <filename>servlex-0.5.0.zip</filename>
+      <checksum type="sha1">56cafdc968a961da547a5a5ac9a0e912e456bb31</checksum>
+      <description>Servlex version 0.5.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Mar 27, 2011</released-on>
+      <uploaded-on>Mar 27, 2011</uploaded-on>
+      <downloads>26</downloads>
+      <size>4.4 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.4.0.zip">
+      <filename>servlex-0.4.0.zip</filename>
+      <checksum type="sha1">87d0da7052ffc9f68b7f2f185ddeb537e43dbfca</checksum>
+      <description>Servlex version 0.4.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Jan 13, 2011</released-on>
+      <uploaded-on>Jan 13, 2011</uploaded-on>
+      <downloads>24</downloads>
+      <size>4.1 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.3.zip">
+      <filename>servlex-0.3.zip</filename>
+      <checksum type="sha1">4b1195b8fdc220110d76a5d8491c9611274071fd</checksum>
+      <description>Servlex version 0.3</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Oct 12, 2010</released-on>
+      <uploaded-on>15</uploaded-on>
+      <downloads>Type-Package</downloads>
+      <size>3.5 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.2.zip">
+      <filename>servlex-0.2.zip</filename>
+      <checksum type="sha1">6ef1596c38edd584474e56dc237d3bef6dd41e39</checksum>
+      <description>Servlex version 0.2</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Sep 12, 2010</released-on>
+      <uploaded-on>12</uploaded-on>
+      <downloads>Type-Package</downloads>
+      <size>3.6 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://servlex.googlecode.com/files/servlex-0.1.war">
+      <filename>servlex-0.1.war</filename>
+      <checksum type="sha1">1f78bc708a6784c4b6a6ac2615febf5ababf2ff5</checksum>
+      <description>Servlex version 0.1</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 1, 2010</released-on>
+      <uploaded-on>39</uploaded-on>
+      <downloads>Type-Package</downloads>
+      <size>6.6 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/servlex/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+</project>
