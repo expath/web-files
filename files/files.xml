@@ -24,4 +24,15 @@
          <file href="expath-ml-console-0.2.0.zip" version="0.2.0"/>
       </component>
    </area>
+   <area dir="zip">
+      <name>ZIP Facility</name>
+      <component>
+         <name>EXPath ZIP Module for Saxon</name>
+         <file href="expath-zip-saxon-0.6.0.zip" version="0.6.0"/>
+      </component>
+      <component>
+         <name>EXPath ZIP Module generic for Java</name>
+         <file href="expath-zip-java-0.1.0.zip" version="0.1.0"/>
+      </component>
+   </area>
 </files>

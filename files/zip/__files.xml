@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<area>
+   <name>ZIP Facility</name>
+   <component>
+      <name>EXPath ZIP Module for Saxon</name>
+      <file href="expath-zip-saxon-0.6.0.zip" version="0.6.0"/>
+      <file href="expath-zip-saxon-0.5.0.zip" version="0.5.0"/>
+      <file href="expath-zip-saxon-0.2.zip" version="0.2"/>
+   </component>
+   <component>
+      <name>EXPath ZIP Module generic for Java</name>
+      <file href="expath-zip-java-0.1.0.zip" version="0.1.0"/>
+   </component>
+</area>
