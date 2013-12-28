@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="
+                  http://www.oxygenxml.com/ns/extension
+                    http://www.oxygenxml.com/ns/extension/extensions.xsd">
+    <xt:extension id="xproject">
+        <xt:location href="http://expath-pkg.googlecode.com/files/xproject-oxygen-plugin-0.5.1.zip"/>
+        <xt:version>0.5.1</xt:version>
+        <xt:oxy_version>14.0+</xt:oxy_version>
+        <xt:type>plugin</xt:type>
+        <xt:author>Florent Georges</xt:author>
+        <xt:name>XProject</xt:name>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">XProject, the XML project manager.</xt:description>
+        <xt:license>The contents of this plugin are subject to the Mozilla Public License
+Version 1.0 (the "License"); you may not use this file except in
+compliance with the License. You may obtain a copy of the License at
+http://www.mozilla.org/MPL/.
+
+Software distributed under the License is distributed on an "AS IS"
+basis, WITHOUT WARRANTY OF ANY KIND, either express or implied.  See
+the License for the specific language governing rights and limitations
+under the License.
+
+The Original Code is: all this plugin.
+
+The Initial Developer of the Original Code is Florent Georges.
+
+Contributor(s): none.</xt:license>
+    </xt:extension>
+</xt:extensions>

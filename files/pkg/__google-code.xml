@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project id="expath-pkg">
+   <home>https://code.google.com/p/expath-pkg/</home>
+   <file href="https://expath-pkg.googlecode.com/files/xproject-oxygen-plugin-0.5.1.zip">
+      <filename>xproject-oxygen-plugin-0.5.1.zip</filename>
+      <checksum type="sha1">75d639485b991df4faa5a041209fb1a80a95ad7a</checksum>
+      <description>XProject plugin for oXygen, version 0.5.1</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 08, 2013</released-on>
+      <uploaded-on>Feb 8, 2013</uploaded-on>
+      <downloads>37</downloads>
+      <size>4.5 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/addon-site.xml">
+      <filename>addon-site.xml</filename>
+      <checksum type="sha1">7b94c71bb887b7f4bdee68d312c3db1884a71feb</checksum>
+      <description>XProject plugin for oXygen, version 0.5.1, addon file</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 08, 2013</released-on>
+      <uploaded-on>Feb 8, 2013</uploaded-on>
+      <downloads>184</downloads>
+      <size>1.4 KB</size>
+      <stars>0</stars>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/xproject-oxygen-plugin-0.5.0.zip">
+      <filename>xproject-oxygen-plugin-0.5.0.zip</filename>
+      <checksum type="sha1">93d15796e48e372d426b8b3382292829bd275dcf</checksum>
+      <description>XProject plugin for oXygen, version 0.5.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 08, 2013</released-on>
+      <uploaded-on>Feb 8, 2013</uploaded-on>
+      <downloads>6</downloads>
+      <size>4.5 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/xproject-0.5.1.zip">
+      <filename>xproject-0.5.1.zip</filename>
+      <checksum type="sha1">6671da78a81eb359daf167555967800919c36316</checksum>
+      <description>Project manager, version 0.5.1</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 08, 2013</released-on>
+      <uploaded-on>Feb 8, 2013</uploaded-on>
+      <downloads>18</downloads>
+      <size>164 KB</size>
+      <stars>1</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/xproject-0.5.0.xar">
+      <filename>xproject-0.5.0.xar</filename>
+      <checksum type="sha1">210dafe3c70bbf9b329aade11f938cd0f3688df1</checksum>
+      <description>Project manager, version 0.5.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Jan 29, 2013</released-on>
+      <uploaded-on>Jan 29, 2013</uploaded-on>
+      <downloads>28</downloads>
+      <size>83.2 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/xproject-oxygen-plugin-0.4.0.zip">
+      <filename>xproject-oxygen-plugin-0.4.0.zip</filename>
+      <checksum type="sha1">51f2a6ac891f0da43e30d8c9c1a8258742c508e5</checksum>
+      <description>XProject plugin for oXygen</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Jan 29, 2013</released-on>
+      <uploaded-on>Jan 29, 2013</uploaded-on>
+      <downloads>12</downloads>
+      <size>4.6 MB</size>
+      <stars>1</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.11.0.zip">
+      <filename>expath-repo-0.11.0.zip</filename>
+      <checksum type="sha1">6fd3bec7d473dcdd2ba74e1779b9e62cff0ebf96</checksum>
+      <description>On-disk Repository Manager, and Saxon and Calabash runtime support, version 0.11.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Nov 24, 2012</released-on>
+      <uploaded-on>Nov 24, 2012</uploaded-on>
+      <downloads>39</downloads>
+      <size>155 KB</size>
+      <stars>1</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.11.0-install.jar">
+      <filename>expath-repo-0.11.0-install.jar</filename>
+      <checksum type="sha1">c55a567b3a29677ca4c7d12d1587613037b9985e</checksum>
+      <description>On-disk Repository Manager, and Saxon and Calabash runtime support, version 0.11.0, auto-installer</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Nov 24, 2012</released-on>
+      <uploaded-on>Nov 24, 2012</uploaded-on>
+      <downloads>53</downloads>
+      <size>3.9 MB</size>
+      <stars>1</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Installer">
+         <name>Type-Installer</name>
+         <desc>Download and run to install application</desc>
+         <category>
+            <name>Type</name>
+            <value>Installer</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-ml-console-0.2.0.zip">
+      <filename>expath-ml-console-0.2.0.zip</filename>
+      <checksum type="sha1">edcbda9576f0e683c6290576f26bab07ae5690de</checksum>
+      <description>EXPath Console for MarkLogic</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Oct 27, 2012</released-on>
+      <uploaded-on>Oct 27, 2012</uploaded-on>
+      <downloads>18</downloads>
+      <size>54.2 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Featured">
+         <name>Featured</name>
+         <desc>Listed on project home page</desc>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-ml-console-0.1.0.zip">
+      <filename>expath-ml-console-0.1.0.zip</filename>
+      <checksum type="sha1">80333ae1e73c0a7db8e44d6d9fd21165f810fd9a</checksum>
+      <description>EXPath Console for MarkLogic</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Sep 20, 2012</released-on>
+      <uploaded-on>Sep 20, 2012</uploaded-on>
+      <downloads>10</downloads>
+      <size>34.3 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.10.0-install.jar">
+      <filename>expath-repo-0.10.0-install.jar</filename>
+      <checksum type="sha1">259a9e136a5b99cd41f9f77058f4f9a4666479b8</checksum>
+      <description>On-disk Repository Manager, and Saxon and Calabash runtime support, version 0.10.0, auto-installer</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>May 10, 2012</released-on>
+      <uploaded-on>May 10, 2012</uploaded-on>
+      <downloads>49</downloads>
+      <size>3.9 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Installer">
+         <name>Type-Installer</name>
+         <desc>Download and run to install application</desc>
+         <category>
+            <name>Type</name>
+            <value>Installer</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.10.0.zip">
+      <filename>expath-repo-0.10.0.zip</filename>
+      <checksum type="sha1">f706be7d5edbd68ab1de965fa35fbb82b719b6cc</checksum>
+      <description>On-disk Repository Manager, and Saxon and Calabash runtime support, version 0.10.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>May 10, 2012</released-on>
+      <uploaded-on>May 10, 2012</uploaded-on>
+      <downloads>32</downloads>
+      <size>208 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/xproject-oxygen-plugin-0.3.0.zip">
+      <filename>xproject-oxygen-plugin-0.3.0.zip</filename>
+      <checksum type="sha1">1675ac8dbb6a7eb31eaf12e034f765399d495aed</checksum>
+      <description>XProject plugin for oXygen</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 24, 2012</released-on>
+      <uploaded-on>Feb 24, 2012</uploaded-on>
+      <downloads>58</downloads>
+      <size>4.4 MB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/xproject-0.4.0.zip">
+      <filename>xproject-0.4.0.zip</filename>
+      <checksum type="sha1">134ad511d682ec5e46418bf25c8ff4840783a6ee</checksum>
+      <description>Project manager, version 0.4.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 08, 2012</released-on>
+      <uploaded-on>Feb 8, 2012</uploaded-on>
+      <downloads>39</downloads>
+      <size>16.6 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.9.0.zip">
+      <filename>expath-repo-0.9.0.zip</filename>
+      <checksum type="sha1">921c99b9e4c1de5d3896fece787791125a60c430</checksum>
+      <description>On-disk Repository Manager, and Saxon and Calabash runtime support, version 0.9.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Sep 07, 2011</released-on>
+      <uploaded-on>Sep 7, 2011</uploaded-on>
+      <downloads>53</downloads>
+      <size>92.7 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.8.0.zip">
+      <filename>expath-repo-0.8.0.zip</filename>
+      <checksum type="sha1">505aefa93d6990599dc688fac16a771115b8fb68</checksum>
+      <description>On-disk Repository Manager, and Saxon runtime support, version 0.8.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 29, 2011</released-on>
+      <uploaded-on>Aug 29, 2011</uploaded-on>
+      <downloads>22</downloads>
+      <size>111 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-calabash-0.9.33.zip">
+      <filename>expath-calabash-0.9.33.zip</filename>
+      <checksum type="sha1">7550a2e64b03cb5e85eaf15800c8599834b6ac4a</checksum>
+      <description>Calabash 0.9.33 with packaging support</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 28, 2011</released-on>
+      <uploaded-on>Aug 28, 2011</uploaded-on>
+      <downloads>22</downloads>
+      <size>665 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-calabash-0.9.32.zip">
+      <filename>expath-calabash-0.9.32.zip</filename>
+      <checksum type="sha1">5166694bae8d2beffce59dfb6db3fbefb7bab6c7</checksum>
+      <description>Calabash 0.9.32 with packaging support</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 24, 2011</released-on>
+      <uploaded-on>Aug 24, 2011</uploaded-on>
+      <downloads>13</downloads>
+      <size>664 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.7.0.zip">
+      <filename>expath-repo-0.7.0.zip</filename>
+      <checksum type="sha1">c2accb50bbd61ce96c26099b550bc4645cb0c313</checksum>
+      <description>On-disk Repository Manager, and Saxon runtime support, version 0.7.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Aug 24, 2011</released-on>
+      <uploaded-on>Aug 24, 2011</uploaded-on>
+      <downloads>19</downloads>
+      <size>138 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-project-0.3.0.zip">
+      <filename>expath-project-0.3.0.zip</filename>
+      <checksum type="sha1">37eca577b639638a07aedab76e4c40fcf1c12490</checksum>
+      <description>Project manager, version 0.3.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Mar 23, 2011</released-on>
+      <uploaded-on>Mar 23, 2011</uploaded-on>
+      <downloads>84</downloads>
+      <size>10.6 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.6.0.zip">
+      <filename>expath-repo-0.6.0.zip</filename>
+      <checksum type="sha1">ba0c7574879f31b18e9a0f8ec27674a40c27a536</checksum>
+      <description>On-disk Repository Manager, and Saxon runtime support, version 0.6.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Feb 14, 2011</released-on>
+      <uploaded-on>Feb 14, 2011</uploaded-on>
+      <downloads>101</downloads>
+      <size>192 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.5.0.zip">
+      <filename>expath-repo-0.5.0.zip</filename>
+      <checksum type="sha1">09453395f5e73efdb46725a8fcd97f2a5570118f</checksum>
+      <description>On-disk Repository Manager, and Saxon runtime support, version 0.5.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Jan 22, 2011</released-on>
+      <uploaded-on>Jan 22, 2011</uploaded-on>
+      <downloads>63</downloads>
+      <size>187 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.4.0.zip">
+      <filename>expath-repo-0.4.0.zip</filename>
+      <checksum type="sha1">8109b60fb5ad695fa26d158fc264b134ff75471f</checksum>
+      <description>On-disk Repository Manager, and Saxon runtime support, version 0.4.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Dec 7, 2010</released-on>
+      <uploaded-on>66</uploaded-on>
+      <downloads>Type-Archive</downloads>
+      <size>187 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-calabash-0.9.28.zip">
+      <filename>expath-calabash-0.9.28.zip</filename>
+      <checksum type="sha1">68f8edf351be0acab1d45c3e7721d673efb3ef01</checksum>
+      <description>Calabash 0.9.28 with packaging support</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Dec 7, 2010</released-on>
+      <uploaded-on>42</uploaded-on>
+      <downloads>Type-Archive</downloads>
+      <size>611 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-calabash-0.9.24.zip">
+      <filename>expath-calabash-0.9.24.zip</filename>
+      <checksum type="sha1">598249427268ff68102b2b6f92c7abee787d3245</checksum>
+      <description>Calabash 0.9.24 with packaging support</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Nov 22, 2010</released-on>
+      <uploaded-on>36</uploaded-on>
+      <downloads>Type-Archive</downloads>
+      <size>610 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-packager-0.2.0.zip">
+      <filename>expath-packager-0.2.0.zip</filename>
+      <checksum type="sha1">d612151db10625f7e1f08a32ce1dbb1172c7d800</checksum>
+      <description>Project packager, version 0.2.0</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>Nov 19, 2010</released-on>
+      <uploaded-on>71</uploaded-on>
+      <downloads>Type-Package</downloads>
+      <size>9.8 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Package">
+         <name>Type-Package</name>
+         <desc>Your OS package manager installs this</desc>
+         <category>
+            <name>Type</name>
+            <value>Package</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+   <file href="https://expath-pkg.googlecode.com/files/expath-repo-0.3.zip">
+      <filename>expath-repo-0.3.zip</filename>
+      <checksum type="sha1">08ac13e48ff30bf31ce5f33d6f4e0a58e057a3e0</checksum>
+      <description>On-disk Repository Manager, and Saxon runtime support</description>
+      <uploaded-by href="https://code.google.com/u/110182551674839706036/">fgeor...@gmail.com</uploaded-by>
+      <released-on>May 6, 2010</released-on>
+      <uploaded-on>87</uploaded-on>
+      <downloads>Type-Archive</downloads>
+      <size>242 KB</size>
+      <stars>0</stars>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:Type-Archive">
+         <name>Type-Archive</name>
+         <desc>Download, unarchive, then follow directions</desc>
+         <category>
+            <name>Type</name>
+            <value>Archive</value>
+         </category>
+      </label>
+      <label href="https://code.google.com/p/expath-pkg/downloads/list?q=label:OpSys-All">
+         <name>OpSys-All</name>
+         <desc>Works with all operating systems</desc>
+         <category>
+            <name>OpSys</name>
+            <value>All</value>
+         </category>
+      </label>
+   </file>
+</project>
