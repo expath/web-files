@@ -5,56 +5,56 @@
       <name>Packaging System</name>
       <component>
          <name>Repository manager, with installer</name>
-         <file href="expath-repo-installer-0.11.0.jar" version="0.11.0"/>
+         <file href="expath-repo-installer-0.12.0.jar"/>
       </component>
       <component>
          <name>Repository manager</name>
-         <file href="expath-repo-0.11.0.zip" version="0.11.0"/>
+         <file href="expath-repo-0.12.0.zip"/>
       </component>
       <component>
          <name>XProject</name>
-         <file href="xproject-0.5.1.zip" version="0.5.1"/>
+         <file href="xproject-0.5.1.zip"/>
       </component>
       <component>
          <name>XProject plugin for oXygen</name>
-         <file href="xproject-oxygen-plugin-0.5.1.zip" version="0.5.1"/>
+         <file href="xproject-oxygen-plugin-0.5.1.zip"/>
       </component>
       <component>
          <name>EXPath Console for MarkLogic</name>
-         <file href="expath-ml-console-0.2.0.zip" version="0.2.0"/>
+         <file href="expath-ml-console-0.2.0.zip"/>
       </component>
    </area>
    <area dir="servlex">
       <name>Servlex</name>
       <component>
          <name>Servlex, with installer</name>
-         <file href="servlex-installer-0.8.0.jar" version="0.8.0"/>
+         <file href="servlex-installer-0.8.0.jar"/>
       </component>
       <component>
          <name>Servlex, only the WAR file</name>
-         <file href="servlex-0.8.0.zip" version="0.8.0"/>
+         <file href="servlex-0.8.0.zip"/>
       </component>
    </area>
    <area dir="http-client">
       <name>HTTP Client</name>
       <component>
          <name>HTTP Client for Saxon</name>
-         <file href="expath-http-client-saxon-0.10.0.zip" version="0.10.0"/>
+         <file href="expath-http-client-saxon-0.10.0.zip"/>
       </component>
       <component>
          <name>HTTP Client generic for Java</name>
-         <file href="expath-http-client-java-0.3.0.zip" version="0.3.0"/>
+         <file href="expath-http-client-java-0.3.0.zip"/>
       </component>
    </area>
    <area dir="zip">
       <name>ZIP Facility</name>
       <component>
          <name>ZIP Module for Saxon</name>
-         <file href="expath-zip-saxon-0.6.0.zip" version="0.6.0"/>
+         <file href="expath-zip-saxon-0.6.0.zip"/>
       </component>
       <component>
          <name>ZIP Module generic for Java</name>
-         <file href="expath-zip-java-0.1.0.zip" version="0.1.0"/>
+         <file href="expath-zip-java-0.1.0.zip"/>
       </component>
    </area>
 </files>
