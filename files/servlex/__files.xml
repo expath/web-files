@@ -4,18 +4,20 @@
    <name>Servlex</name>
    <component>
       <name>Servlex, with installer</name>
+      <file href="servlex-installer-0.9.0.jar" version="0.9.0" date="2013-12-28"/>
       <file href="servlex-installer-0.8.0.jar" version="0.8.0"/>
       <file href="servlex-installer-0.7.0.jar" version="0.7.0"/>
    </component>
    <component>
       <name>Servlex, only the WAR file</name>
+      <file href="servlex-0.9.0.zip" version="0.9.0" date="2013-12-28"/>
       <file href="servlex-0.8.0.zip" version="0.8.0"/>
       <file href="servlex-0.7.0.zip" version="0.7.0"/>
       <file href="servlex-0.6.0.zip" version="0.6.0"/>
       <file href="servlex-0.5.0.zip" version="0.5.0"/>
       <file href="servlex-0.4.0.zip" version="0.4.0"/>
-      <file href="servlex-0.3.zip" version="0.3"/>
-      <file href="servlex-0.2.zip" version="0.2"/>
-      <file href="servlex-0.1.war" version="0.1"/>
+      <file href="servlex-0.3.zip"   version="0.3"/>
+      <file href="servlex-0.2.zip"   version="0.2"/>
+      <file href="servlex-0.1.war"   version="0.1"/>
    </component>
 </area>
