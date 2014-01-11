@@ -50,11 +50,11 @@
       <name>ZIP Facility</name>
       <component>
          <name>ZIP Module for Saxon</name>
-         <file href="expath-zip-saxon-0.6.0.zip"/>
+         <file href="expath-zip-saxon-0.7.0.zip"/>
       </component>
       <component>
          <name>ZIP Module generic for Java</name>
-         <file href="expath-zip-java-0.1.0.zip"/>
+         <file href="expath-zip-java-0.2.0.zip"/>
       </component>
    </area>
 </files>
