@@ -39,11 +39,11 @@
       <name>HTTP Client</name>
       <component>
          <name>HTTP Client for Saxon</name>
-         <file href="expath-http-client-saxon-0.10.0.zip"/>
+         <file href="expath-http-client-saxon-0.11.0.zip"/>
       </component>
       <component>
          <name>HTTP Client generic for Java</name>
-         <file href="expath-http-client-java-0.3.0.zip"/>
+         <file href="expath-http-client-java-0.4.0.zip"/>
       </component>
    </area>
    <area dir="zip">
