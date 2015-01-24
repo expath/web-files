@@ -5,11 +5,11 @@
       <name>Packaging System</name>
       <component>
          <name>Repository manager, with installer</name>
-         <file href="expath-repo-installer-0.12.0.jar"/>
+         <file href="expath-repo-installer-0.13.0.jar"/>
       </component>
       <component>
          <name>Repository manager</name>
-         <file href="expath-repo-0.12.0.zip"/>
+         <file href="expath-repo-0.13.0.zip"/>
       </component>
       <component>
          <name>XProject</name>
