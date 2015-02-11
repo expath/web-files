@@ -43,6 +43,7 @@
    </component>
    <component>
       <name>EXPath Console for MarkLogic</name>
+      <file href="expath-ml-console-0.3.0.zip" version="0.3.0" date="2015-02-11"/>
       <file href="expath-ml-console-0.2.0.zip" version="0.2.0"/>
       <file href="expath-ml-console-0.1.0.zip" version="0.1.0"/>
    </component>
