@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <files>
+   <area dir="tools">
+      <name>Java Tools</name>
+      <desc>See also the
+         <link href="https://github.com/expath/tools-java">expath/tools-java</link> and
+         <link href="https://github.com/expath/tools-saxon">expath/tools-saxon</link>
+         code repositories on Github for some examples and documentation.</desc>
+      <component>
+         <name>EXPath Tools for Java</name>
+         <file href="expath-tools-java-0.1.0.jar"/>
+      </component>
+      <component>
+         <name>EXPath Tools for Saxon</name>
+         <file href="expath-tools-saxon-0.1.0.jar"/>
+      </component>
+   </area>
    <area dir="pkg">
       <name>Packaging System</name>
       <component>
