@@ -26,6 +26,9 @@
    </area>
    <area dir="servlex">
       <name>Servlex</name>
+      <desc>See also the <link href="http://servlex.net/">Servlex website</link>
+         for comprehensive documentation.</desc>
+      <home>http://servlex.net/</home>
       <component>
          <name>Servlex, with installer</name>
          <file href="servlex-installer-0.9.0.jar"/>
@@ -37,6 +40,9 @@
    </area>
    <area dir="http-client">
       <name>HTTP Client</name>
+      <desc>See also the package
+         <link href="http://cxan.org/pkg/expath/http-client-saxon">expath/http-client-saxon</link>
+         on CXAN.</desc>
       <component>
          <name>HTTP Client for Saxon</name>
          <file href="expath-http-client-saxon-0.11.0.zip"/>
@@ -48,6 +54,9 @@
    </area>
    <area dir="zip">
       <name>ZIP Facility</name>
+      <desc>See also the package
+         <link href="http://cxan.org/pkg/expath/zip-saxon">expath/zip-saxon</link>
+         on CXAN.</desc>
       <component>
          <name>ZIP Module for Saxon</name>
          <file href="expath-zip-saxon-0.7.0.zip"/>
