@@ -46,11 +46,11 @@
       <home>http://servlex.net/</home>
       <component>
          <name>Servlex, with installer</name>
-         <file href="servlex-installer-0.9.0.jar"/>
+         <file href="servlex-installer-0.10.0.jar"/>
       </component>
       <component>
          <name>Servlex, only the WAR file</name>
-         <file href="servlex-0.9.0.zip"/>
+         <file href="servlex-0.10.0.zip"/>
       </component>
    </area>
    <area dir="http-client">
@@ -60,11 +60,11 @@
          on CXAN.</desc>
       <component>
          <name>HTTP Client for Saxon</name>
-         <file href="expath-http-client-saxon-0.11.0.zip"/>
+         <file href="expath-http-client-saxon-0.12.0.zip"/>
       </component>
       <component>
          <name>HTTP Client generic for Java</name>
-         <file href="expath-http-client-java-0.4.0.zip"/>
+         <file href="expath-http-client-java-0.5.0.zip"/>
       </component>
    </area>
    <area dir="zip">
@@ -74,11 +74,11 @@
          on CXAN.</desc>
       <component>
          <name>ZIP Module for Saxon</name>
-         <file href="expath-zip-saxon-0.7.0.zip"/>
+         <file href="expath-zip-saxon-0.8.0.zip"/>
       </component>
       <component>
          <name>ZIP Module generic for Java</name>
-         <file href="expath-zip-java-0.2.0.zip"/>
+         <file href="expath-zip-java-0.3.0.zip"/>
       </component>
    </area>
 </files>
