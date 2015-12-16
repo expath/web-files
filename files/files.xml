@@ -60,11 +60,11 @@
          on CXAN.</desc>
       <component>
          <name>HTTP Client for Saxon</name>
-         <file href="expath-http-client-saxon-0.11.0.zip"/>
+         <file href="expath-http-client-saxon-0.12.0.zip"/>
       </component>
       <component>
          <name>HTTP Client generic for Java</name>
-         <file href="expath-http-client-java-0.4.0.zip"/>
+         <file href="expath-http-client-java-0.5.0.zip"/>
       </component>
    </area>
    <area dir="zip">
