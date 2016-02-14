@@ -4,14 +4,17 @@ EXPath web files
 The files in the download area of the EXPath website, at
 [http://expath.org/files](http://expath.org/files).
 
-To publish new files to the website, just commit to the branch
-`master`.  Never commit directly to `master`, commit first to the
-branch `sandbox`, which publishes to
-[http://test.expath.org/files](http://test.expath.org/files), and
-never commit directly to the branches but pass through a pull request.
+## Updates
+
+To publish new files to the website, commit to the branch `sandbox`.
+Once everything is fine on [the sandbox](http://test.expath.org/)
+website, create a pull request from `sandbox` to `master` (e.g. using
+Github web interface).
 
 Updates take more or less 5 minutes to be actually published to the
 websites.
+
+## Descriptors
 
 The file `files/files.xml` lists the files to appear directly under
 [http://expath.org/files](http://expath.org/files) (the latest version

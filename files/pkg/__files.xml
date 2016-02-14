@@ -4,6 +4,7 @@
    <name>Packaging System</name>
    <component>
       <name>Repository manager, with installer</name>
+      <file href="expath-repo-installer-0.13.1.jar" version="0.13.1" date="2015-12-15"/>
       <file href="expath-repo-installer-0.13.0.jar" version="0.13.0" date="2015-01-24"/>
       <file href="expath-repo-installer-0.12.1.jar" version="0.12.1" date="2014-10-24"/>
       <file href="expath-repo-installer-0.12.0.jar" version="0.12.0" date="2013-12-28"/>
@@ -12,6 +13,7 @@
    </component>
    <component>
       <name>Repository manager</name>
+      <file href="expath-repo-0.13.1.zip" version="0.13.1" date="2015-12-15"/>
       <file href="expath-repo-0.13.0.zip" version="0.13.0" date="2015-01-24"/>
       <file href="expath-repo-0.12.1.zip" version="0.12.1" date="2014-10-24"/>
       <file href="expath-repo-0.12.0.zip" version="0.12.0" date="2013-12-28"/>
@@ -43,6 +45,7 @@
    </component>
    <component>
       <name>EXPath Console for MarkLogic</name>
+      <file href="expath-ml-console-0.4.0.zip" version="0.4.0" date="2016-02-14"/>
       <file href="expath-ml-console-0.3.0.zip" version="0.3.0" date="2015-02-11"/>
       <file href="expath-ml-console-0.2.0.zip" version="0.2.0"/>
       <file href="expath-ml-console-0.1.0.zip" version="0.1.0"/>

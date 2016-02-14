@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <files>
+   <area dir="tools">
+      <name>Java Tools</name>
+      <desc>See also the
+         <link href="https://github.com/expath/tools-java">expath/tools-java</link> and
+         <link href="https://github.com/expath/tools-saxon">expath/tools-saxon</link>
+         code repositories on Github for some examples and documentation.</desc>
+      <component>
+         <name>EXPath Tools for Java</name>
+         <file href="expath-tools-java-0.1.0.jar"/>
+      </component>
+      <component>
+         <name>EXPath Tools for Saxon</name>
+         <file href="expath-tools-saxon-0.1.0.jar"/>
+      </component>
+   </area>
    <area dir="pkg">
       <name>Packaging System</name>
       <component>
          <name>Repository manager, with installer</name>
-         <file href="expath-repo-installer-0.13.0.jar"/>
+         <file href="expath-repo-installer-0.13.1.jar"/>
       </component>
       <component>
          <name>Repository manager</name>
-         <file href="expath-repo-0.13.0.zip"/>
+         <file href="expath-repo-0.13.1.zip"/>
       </component>
       <component>
          <name>XProject</name>
@@ -26,35 +41,44 @@
    </area>
    <area dir="servlex">
       <name>Servlex</name>
+      <desc>See also the <link href="http://servlex.net/">Servlex website</link>
+         for comprehensive documentation.</desc>
+      <home>http://servlex.net/</home>
       <component>
          <name>Servlex, with installer</name>
-         <file href="servlex-installer-0.9.0.jar"/>
+         <file href="servlex-installer-0.10.0.jar"/>
       </component>
       <component>
          <name>Servlex, only the WAR file</name>
-         <file href="servlex-0.9.0.zip"/>
+         <file href="servlex-0.10.0.zip"/>
       </component>
    </area>
    <area dir="http-client">
       <name>HTTP Client</name>
+      <desc>See also the package
+         <link href="http://cxan.org/pkg/expath/http-client-saxon">expath/http-client-saxon</link>
+         on CXAN.</desc>
       <component>
          <name>HTTP Client for Saxon</name>
-         <file href="expath-http-client-saxon-0.11.0.zip"/>
+         <file href="expath-http-client-saxon-0.12.0.zip"/>
       </component>
       <component>
          <name>HTTP Client generic for Java</name>
-         <file href="expath-http-client-java-0.4.0.zip"/>
+         <file href="expath-http-client-java-0.5.0.zip"/>
       </component>
    </area>
    <area dir="zip">
       <name>ZIP Facility</name>
+      <desc>See also the package
+         <link href="http://cxan.org/pkg/expath/zip-saxon">expath/zip-saxon</link>
+         on CXAN.</desc>
       <component>
          <name>ZIP Module for Saxon</name>
-         <file href="expath-zip-saxon-0.7.0.zip"/>
+         <file href="expath-zip-saxon-0.8.0.zip"/>
       </component>
       <component>
          <name>ZIP Module generic for Java</name>
-         <file href="expath-zip-java-0.2.0.zip"/>
+         <file href="expath-zip-java-0.3.0.zip"/>
       </component>
    </area>
 </files>

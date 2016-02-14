@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<area dir="tools">
+   <name>Java Tools</name>
+   <component>
+      <name>EXPath Tools for Java</name>
+      <file href="expath-tools-java-0.1.0.jar" version="0.1.0"/>
+   </component>
+   <component>
+      <name>EXPath Tools for Saxon</name>
+      <file href="expath-tools-saxon-0.1.0.jar" version="0.1.0"/>
+   </component>
+</area>
