@@ -36,7 +36,7 @@
       </component>
       <component>
          <name>EXPath Console for MarkLogic</name>
-         <file href="expath-ml-console-0.3.0.zip"/>
+         <file href="expath-ml-console-0.4.0.zip"/>
       </component>
    </area>
    <area dir="servlex">
